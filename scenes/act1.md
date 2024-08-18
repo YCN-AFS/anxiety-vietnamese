@@ -6,9 +6,9 @@ SceneSetup.act1();
 
 (...300)
 
-n: AND THIS IS THE HUMAN'S ANXIETY
+n: VÀ ĐÂY LÀ NỖI LO ÂU CỦA CON NGƯỜI
 
-n: _YOU_ ARE THE ANXIETY
+n: _MI_ CHÍNH LÀ NỖI LO ÂU?
 
 {{if window.localStorage.continueChapter=="replay"}}
 (#act1_replay)
@@ -24,17 +24,17 @@ n: _YOU_ ARE THE ANXIETY
 
 `hong({mouth:"0_neutral", eyes:"0_neutral"})`
 
-h: Oh hey! We're back here again?
+h: Ồ này! Chúng ta lại ở đây nữa sao?
 
 `hong({eyes:"0_neutral"})`
 
-n: YOUR JOB IS TO PROTECT YOUR HUMAN FROM *DANGER*
+n: NHIỆM VỤ CỦA CẬU LÀ BẢO VỆ CON NGƯỜI CỦA MÌNH KHỎI *NGUY HIỂM*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
-n: IN FACT, REPLAYING THIS GAME IS PUTTING THEM IN *DANGER* RIGHT NOW
+n: THẬT RA, CHƠI LẠI TRÒ NÀY ĐANG ĐẶT HỌ VÀO *NGUY HIỂM* ĐẤY!
 
-n: QUICK, WARN THEM!
+n: NHANH LÊN, CẢNH BÁO HỌ NGAY ĐI!
 
 ```
 sfx("squeak");
@@ -42,7 +42,7 @@ bb({body:"squeeze_talk"});
 hong({body:"0_squeeze"});
 ```
 
-b: Human! Listen, we're in danger! The player...
+b: Này, con người! Nghe này, chúng ta đang gặp nguy hiểm! Người chơi...
 
 [...is gonna torture us again!](#act1_replay_torture)
 
@@ -59,15 +59,15 @@ hong({body:"0_sammich"});
 ```
 
 {{if window.HACK_REPLAY.act1_ending=="fight"}}
-b: They'll make us curl up into a ball and cry!
+b: Họ sẽ làm chúng ta cuộn tròn lại rồi khóc ròng mất thôi!
 {{/if}}
 
 {{if window.HACK_REPLAY.act1_ending=="flight"}}
-b: They'll make us kill your phone for giving you a panic attack!
+b: Họ sẽ bắt chúng tôi phải tắt điện thoại của bạn vì nó cậu hoảng loạn đấy!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="fight"}}
-b: They'll make us *NOT* punch the party host!
+b: Họ sẽ khiến chúng ta *KHÔNG* đấm vào người chủ bữa tiệc!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="flight"}}
@@ -186,17 +186,17 @@ bb({body:"squeeze"});
 
 `hong({mouth:"0_neutral", eyes:"0_annoyed"})`
 
-h: Oh good, my wolf's back. Faaaaantastic.
+h: Ôi tốt quá, con sói của mình đã trở lại. Tuyệeeet vời thật.
 
 `hong({eyes:"0_neutral"})`
 
-n: YOUR JOB IS TO PROTECT YOUR HUMAN FROM *DANGER*
+n: BẠN CẦN BẢO VỆ BẢN THÂN MÌNH KHỎI *NGUY HIỂM*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
-n: IN FACT, THAT SANDWICH IS PUTTING THEM IN *DANGER* RIGHT NOW
+n: THỰC TẾ, CHIẾC SANDWICH ĐÓ ĐANG ĐẶT BẠN VÀO *NGUY HIỂM* NGAY BÂY GIỜ
 
-n: QUICK, WARN THEM!
+n: NHANH NÀO, HÃY CẢNH BÁO BẢN THÂN!
 
 ```
 sfx("squeak");
@@ -204,21 +204,21 @@ bb({body:"squeeze_talk"});
 hong({body:"0_squeeze"});
 ```
 
-b: Human! Listen, we're in danger! The danger is...
+b: Con người! Nghe này, chúng ta đang gặp nguy hiểm! Mối nguy là...
 
 `bb({body:"squeeze"})`
 
-n4: (LET _YOUR_ ANXIETY COME OUT TO PLAY! PICK WHAT'S MOST SIMILAR TO WHAT _YOUR_ FEAR TELLS YOU)
+n4: (HÃY ĐỂ SỰ LO LẮNG CỦA _BẠN_ BẮT ĐẦU! CHỌN ĐIỀU GIỐNG NHẤT VỚI NHỮNG GÌ NỖI SỢ HÃI CỦA _BẠN_ NÓI VỚI BẠN)
 
 (#act1_normal_choice)
 
 # act1_normal_choice
 
-[We're eating alone for lunch! Again!](#act1a_alone) `bb({body:"squeeze_talk"})`
+[Cậu lại ăn trưa một mình! Một lần nữa!](#act1a_alone) `bb({body:"squeeze_talk"})`
 
-[We're not productive while eating!](#act1a_productive) `bb({body:"squeeze_talk"})`
+[Cậu không thể làm việc hiệu quả khi ăn được!](#act1a_productive) `bb({body:"squeeze_talk"})`
 
-[That white bread's bad for us!](#act1a_bread) `bb({body:"squeeze_talk"})`
+[Ăn bánh mì trắng không tốt cho cậu!](#act1a_bread) `bb({body:"squeeze_talk"})`
 
 # act1a_alone
 
@@ -227,27 +227,27 @@ bb({body:"normal", mouth:"small", eyes:"narrow"});
 hong({body:"0_sammich"});
 ```
 
-b: Don't you know loneliness is associated with premature death as much as smoking 15 cigarettes a day?-
+b: Cậu không biết rằng sự cô đơn có liên quan đến cái chết sớm ngang với việc hút 15 điếu thuốc mỗi ngày sao?-
 
 `Game.OVERRIDE_TEXT_SPEED = 2;`
 
 `bb({mouth:"normal", eyes:"normal_right"})`
 
-b: (Holt-Lunstad 2010, PLoS Medicine)
+b: (Nguồn: Holt-Lunstad 2010, PLoS Medicine)
 
 `hong({eyes:"0_annoyed"})`
 
-h: Um, thanks for citing your sources but--
+h: Ừm, cảm ơn mi đã trích dẫn nguồn nhưng--
 
 `Game.OVERRIDE_TEXT_SPEED = 2;`
 
 `bb({body:"fear", mouth:"normal", eyes:"fear"})`
 
-b: Which means if we don't hang out with someone *right now* we're gonna-
+b: Điều đó có nghĩa là nếu cậu không đi chơi với ai đó *ngay bây giờ* thì cậu sẽ-
 
 `bb({body:"panic"})`
 
-b: DIEEEEEEEEEEEEEEEEEEE
+b: CHẾTTTTTTTTT
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -260,7 +260,7 @@ publish("hp_show");
 
 `_.fifteencigs = true`
 
-n: YOU USED *FEAR OF BEING UNLOVED*
+n: BẠN ĐÃ SỬ DỤNG *NỖI SỢ KHÔNG ĐƯỢC YÊU THƯƠNG*
 
 (#act1b)
 
@@ -271,11 +271,10 @@ bb({body:"normal", mouth:"small", eyes:"normal"});
 hong({body:"0_sammich"});
 ```
 
-b: Whip out your laptop and do some work right now!
-
+b: Hãy lấy laptop ra và bắt đầu làm việc ngay bây giờ!
 `hong({eyes:"0_annoyed"})`
 
-h: Um, I'd rather not get crumbs in my keyboa--
+h: Hừmm, mình không muốn có vụn bánh mì rơi vào bàn phím--
 
 ```
 bb({mouth:"normal", eyes:"fear"});
@@ -339,37 +338,37 @@ publish("hp_show");
 
 `_.whitebread = true`
 
-n: YOU USED *FEAR OF BEING HARMED*
+n: BẠN ĐÃ SỬ DỤNG *SỢ BỊ TỔN THƯƠNG*
 
 (#act1b)
 
 # act1b
 
-n: IT'S SUPER EFFECTIVE
+n: NÓ CÓ HIỆU QUẢ SIÊU CẤP
 
 `bb({mouth:"smile", eyes:"smile"});`
 
-b: See, human? I am your loyal guard-wolf!
+b: Thấy chưa, con người? Tớ là chú sói bảo vệ trung thành của cậu!
 
 `bb({body:"pride_talk"});`
 
-b: Trust your gut! Your feelings are always valid!
+b: Hãy tin vào trực giác của cậu! Cảm xúc của cậu luôn luôn đúng!
 
 `bb({body:"pride"});`
 
-n: GET YOUR HUMAN'S ENERGY BAR TO ZERO
+n: LÀM CHO THANH NĂNG LƯỢNG CỦA CON NGƯỜI VỀ CON SỐ 0
 
-n: TO PROTECT THEIR PHYSICAL + SOCIAL + MORAL NEEDS, YOU CAN USE:
+n: ĐỂ BẢO VỆ NHU CẦU VỀ THỂ CHẤT + XÃ HỘI + ĐẠO ĐỨC, BẠN CÓ THỂ SỬ DỤNG:
 
-n: FEAR OF *BEING HARMED* #harm#
+n: SỢ *BỊ TỔN THƯƠNG*#harm#
 
-n: FEAR OF *BEING UNLOVED* #alone#
+n: SỢ *KHÔNG ĐƯỢC YÊU THƯƠNG* #alone#
 
-n: AND FEAR OF *BEING A BAD PERSON* #bad#
+n: VÀ SỢ *TRỞ THÀNH NGƯỜI XẤU* #bad#
 
 `Game.OVERRIDE_TEXT_SPEED = 1.25;`
 
-n4: (PRO-TIP: PLAY THE CHOICES THAT PERSONALLY HIT YOUR DEEPEST, DARKEST FEARS!~)
+n4: (MẸO HAY: HÃY TÌM NHỮNG LỰA CHỌN ĐÁNH VÀO NỖI SỢ HÃI SÂU SẮC NHẤT CỦA BẠN!~)
 
 h: ...
 
@@ -383,18 +382,18 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
-h: you know what maybe it's time to check my phone.
+h: Cậu biết không, có lẽ đã đến lúc mình nên kiểm tra điện thoại rồi.
 
 ```
 sfx("rustle2");
 hong({body:"phone1", mouth:"neutral", eyes:"neutral"})
 ```
 
-n: PROTECT YOUR HUMAN
+n: HÃY BẢO VỆ CON NGƯỜI CỦA BẠN
 
-n: FROM THE WORLD. FROM OTHER PEOPLE. FROM THEMSELF.
+n: KHỎI THẾ GIỚI. KHỎI NGƯỜI KHÁC. VÀ KHỎI CHÍNH HỌ.
 
-n: GOOD LUCK
+n: CHÚC MAY MẮN
 
 (...500)
 
@@ -408,33 +407,33 @@ n: GOOD LUCK
 
 `music('battle', {volume:0.5})`
 
-n: ROUND ONE: *FIGHT!*
+n: HIỆP MỘT: *BẮT ĐẦU!*
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"});`
 
-h: Huh. Facebook feed says there's a party happening this weekend.
+h: Hửm. Trên Facebook thông báo là có một bữa tiệc diễn ra vào cuối tuần này.
 
 `bb({eyes:"uncertain"});`
 
-b: Doesn't that weirdo throw a party *every* weekend?
+b: Chẳng phải cái gã lập dị đó tổ chức tiệc *mỗi* tuần sao?
 
 `bb({eyes:"uncertain_right"});`
 
-b: What inner void are they trying to fill? They must be deeply messed up inside!
+b: Có phải họ đang cố lấp đầy khoảng trống trong tâm hồn? Chắc hẳn họ đang có vấn đề về tâm lý!
 
 `hong({eyes:"surprise"});`
 
-h: Also, I got an invite?
+h: Mà, mình cũng được mời?
 
 `bb({eyes:"fear", mouth:"normal"});`
 
-b: Well then!
+b: Vậy thì tốt!
 
-[Say yes, or we'll die from loneliness!](#act1c_loner)
+[Đồng ý đi, nếu không cậu sẽ chết vì cô đơn!](#act1c_loner)
 
-[Say no, it's full of poisonous drugs!](#act1c_drugs)
+[Hãy từ chối, đồ ăn có thể có độc!](#act1c_drugs)
 
-[Ignore it, we just make parties sad.](#act1c_sad)
+[Hãy bỏ qua nó đi, cậu chỉ làm cho bữa tiệc mất vui thôi.](#act1c_sad)
 
 # act1c_loner
 

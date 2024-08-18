@@ -14,13 +14,13 @@
 
 `clearText()`
 
-n3: So before we start, how would *you* like to read?
+n3: Vậy trước khi bắt đầu, *cậu* muốn đọc như thế nào?
 
 `publish("show_options_bottom")`
 
 # intro-start-2
 
-n3: Now, let's begin our story...
+n3: Bây giờ, chúng ta hãy bắt đầu câu chuyện của mình...
 
 ```
 publish("hide_tabs");

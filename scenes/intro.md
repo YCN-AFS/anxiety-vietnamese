@@ -92,17 +92,17 @@ _.PLAYED_BEFORE = !!window.localStorage.continueChapter;
 
 `clearText()`
 
-n3: Welcome! This is less of a "game," more of an interactive story. Hope you like reading, sucka!
+n3: Chào mừng! Đây không hẳn là một "trò chơi" mà là một câu chuyện tương tác. Hy vọng cậu thích đọc, thật yếu đuối!
 
-n3: So before we start, how would *you* like to read?
+n3: Vậy trước khi chúng ta bắt đầu, *cậu* muốn đọc như thế nào?
 
 `publish("show_options_bottom")`
 
 # intro-start-2
 
-n3: Great! Note: you can always change options with the ⚙ icon below. Also, game auto-saves at each chapter!
+n3: Tuyệt! Lưu ý: bạn luôn có thể thay đổi tùy chọn bằng biểu tượng ⚙ bên dưới. Ngoài ra, trò chơi tự động lưu ở mỗi chương!
 
-n3: Now, let's begin our story...
+n3: Bây giờ, hãy bắt đầu câu chuyện của chúng ta...
 
 `clearText()`
 
@@ -110,7 +110,7 @@ n3: Now, let's begin our story...
 
 `publish("intro-to-game-2")`
 
-n2: THIS IS A HUMAN
+n2: ĐÂY LÀ MỘT CON NGƯỜI
 
 (...600)
 
