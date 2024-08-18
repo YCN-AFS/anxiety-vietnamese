@@ -31,7 +31,7 @@ clearText();
 
 `publish("intro-to-game-2")`
 
-n2: THIS IS A HUMAN
+n2: ĐÂY LÀ MỘT CON NGƯỜI
 
 (...600)
 
@@ -51,9 +51,9 @@ music('battle', {volume:0.5});
 
 (...300)
 
-n: AND THIS IS THE HUMAN'S ANXIETY
+n: VÀ ĐÂY LÀ SỰ LO ÂU CỦA CON NGƯỜI
 
-n: _YOU_ ARE THE ANXIETY
+n: _BẠN_ LÀ SỰ LO ÂU
 
 (#act1_normal)
 
