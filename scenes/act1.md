@@ -44,11 +44,11 @@ hong({body:"0_squeeze"});
 
 b: Này, con người! Nghe này, chúng ta đang gặp nguy hiểm! Người chơi...
 
-[...is gonna torture us again!](#act1_replay_torture)
+[...cậu lại đến hành hạ mình 1 lần nữa!](#act1_replay_torture)
 
-[...won't find an alternate ending!](#act1_replay_alternate)
+[...không thể có một kết thúc khác được sao!](#act1_replay_alternate)
 
-[...will get ludonarrative dissonance!](#act1_replay_dissonance)
+[...điều này làm ra xung đột cốt truyện cậu biết chứ!](#act1_replay_dissonance)
 
 # act1_replay_torture
 
@@ -439,7 +439,7 @@ b: Ồ, vậy à!
 # act1c_loner
 
 {{if _.fifteencigs}}
-b: Fifteen cigarettes a day, human! Fifteen!
+b: Mười lăm điếu thuốc một ngày, con người ạ! Mười lăm!
 {{/if}}
 
 {{if !_.fifteencigs}}
@@ -617,14 +617,14 @@ bb({eyes:"pained1"});
 music(null, {fade:2});
 ```
 
-b: God, it feels like the world's burning, isn't it?
+b: Trời ơi, mình cảm giác như cả thế giới đang chống lại mình vậy?
 
 ```
 bb({eyes:"pained2"});
 hong({mouth:"sad", eyes:"sad"});
 ```
 
-b: It feels like it's all ending, like everything's dying and we're doomed and there's nothing we can do about it.
+b: Cảm giác như mọi thứ đang kết thúc, mọi thứ như đang chết dần và số phận cậu đã bị định sẵn, không thể làm gì để thay đổi.
 
 ```
 Game.OVERRIDE_TEXT_SPEED = 0.5;
@@ -635,7 +635,7 @@ b: ...
 
 `bb({mouth:"smile", eyes:"smile"});`
 
-b: Let's retweet that story!
+b: Cậu chia sẻ lại nội dung tiêu cực này nhé!
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -653,11 +653,11 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Okay I'll retweet it just please be quiet!
+h: Được rồi mình chia sẻ, nhưng im lặng giùm mình được không?
 
 `hong({mouth:"neutral", eyes:"annoyed"});`
 
-h: Screw it, let's look at Snapchat.
+h: Thôi kệ, mình xem trên Instagram có gì đã.
 
 (#act1e)
 
@@ -760,7 +760,7 @@ h: o-KAY, gonna try Snapchat.
 
 `hong({mouth:"neutral", eyes:"neutral"});`
 
-h: Huh, photos from yesterday night. So *that's* what those weekly parties are like.
+h: Hả? Bức ảnh chụp vào tối qua. Vậy *hóa ra* cái thằng đó tuần nào cũng mở tiệc.
 
 {{if _.partyinvite=="yes"}} (#act1e_said_yes) {{/if}}
 
@@ -772,25 +772,25 @@ h: Huh, photos from yesterday night. So *that's* what those weekly parties are l
 
 `hong({mouth:"sad", eyes:"annoyed"});`
 
-h: Oof, looks way too crowded for my anxiety.
+h: Ôi, ở đó đông người quá, mình cảm thấy không ổn khi đến nơi như vậy.
 
-h: Maybe I shouldn't have said yes to the invite?
+h: Có lẽ mình nên từ chối lời mời này?
 
 ```
 hong({mouth:"neutral", eyes:"neutral"});
 bb({mouth:"normal", eyes:"normal"});
 ```
 
-[Change our answer? Like a jerk?!](#act1e_yes_dontchange)
+[Cậu đổi ý ư? Thật ngu ngốc!](#act1e_yes_dontchange)
 
-[Change our answer! It's too crowded!](#act1e_yes_changetono)
+[Đổi ý đi! Ở đó đông đúc quá!](#act1e_yes_changetono)
 
 {{if _.subtweet}}
 [Yeah they were totally subtweeting us.](#act1e_ignore_subtweet)
 {{/if}}
 
 {{if _.badnews}}
-[Wait we retweeted without fact-checking.](#act1e_ignore_factcheck)
+[Khoan đã, cậu chia sẻ lại bữa tiệc mà không kiểm tra...](#act1e_ignore_factcheck)
 {{/if}}
 
 {{if (!_.subtweet && !_.badnews)}}
@@ -804,10 +804,10 @@ bb({eyes:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: They were counting on us to come and now we're betraying their trust? Do you wanna die alone?!
+b: Bọn họ mong chờ cậu đến và giờ cậu phản bội lòng tin của họ? Cậu chết trong cô đơn sao?!
 
 {{if _.fifteencigs}}
-b: FIFTEEN. CIGARETTES.
+b: MƯỜI NĂM ĐIẾU THUỐC LÁ.
 {{/if}}
 
 {{if _.whalepoop}}
