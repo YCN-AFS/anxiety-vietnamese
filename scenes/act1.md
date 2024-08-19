@@ -826,7 +826,7 @@ hong({mouth:"anger", eyes:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Shut up shut up I'll keep it as yes!
+h: Thôi mà thôi mà, tớ đồng ý!
 
 (#act1f)
 
@@ -1129,60 +1129,60 @@ hong({mouth:"neutral", eyes:"neutral"});
 bb({body:"normal", mouth:"normal", eyes:"normal"});
 ```
 
-h: Whatever. New Tinder notification.
+h: Kệ nó đi. Trên Tinder có thông báo mới.
 
 `bb({eyes:"uncertain"})`
 
-b: What, that hookup app?
+b: Gì cơ? Cái ứng dụng hẹn hò đó à?
 
 `hong({eyes:"annoyed"})`
 
-h: It's not a hookup app, it's just a way to meet new peopl--
+h: Đây không hẳn là app hẹn hò, nó là nơi cậu có thể gặp những con người mới--
 
 `bb({eyes:"narrow"})`
 
-b: It's a hookup app.
+b: Đây rõ ràng là ứng dụng hẹn hò.
 
 ```
 hong({eyes:"surprise", mouth:"smile"});
 bb({eyes:"normal"});
 ```
 
-h: Oh, I got a match! They look cute!
+h: Ơ này, tớ vừa được ghép đôi với ai đó, trong họ thật dễ thương.
 
 ```
 bb({eyes:"narrow_eyebrow"});
 hong({eyes:"sad", mouth:"anger"})
 ```
 
-h: Please don't ruin this for m--
+h: Đừng làm hỏng chuyện của tớ--
 
 ```
 bb({body:"panic"});
 Game.OVERRIDE_TEXT_SPEED = 2.0;
 ```
 
-b: DANGER DANGER DANGER DANGER DANGER DANGER
+b: NGUY HIỂM - NGUY HIỂM - THẬT NGUY HIỂM
 
 `bb({body:"fear", eyes:"fear", mouth:"normal"})`
 
-[We're being *used* by other people.](#act1f_used_by_others)
+[Cậu chỉ đang bị người khác *lợi dụng* thôi.](#act1f_used_by_others)
 
-[We're just *using* other people.](#act1f_using_others)
+[Cậu chỉ đang *lợi dụng* người ta thôi.](#act1f_using_others)
 
-[YOUR MATCH IS A SERIAL KILLER](#act1f_killer)
+[NGƯỜI GHÉP ĐÔI VỚI CẬU LÀ SÁT NHÂN HÀNG LOẠT](#act1f_killer)
 
 # act1f_used_by_others
 
 `bb({body:"point_crotch", eyes:"normal", mouth:"normal"})`
 
-b: Random hookups may be able to fill the hole down there,
+b: Những cuộc gặp gỡ với người xa lạ có thể lấp đầy khoảng trống trong lòng cậu,
 
-b: but they can never fill the hole...
+b: nhưng chúng không bao giờ thỏa mãn được con quỷ cô đơn...
 
 `bb({body:"point_heart", eyes:"pretty", mouth:"small"})`
 
-b: in *here*.
+b: ở *trong tim cậu*.
 
 (...1000)
 
@@ -1191,7 +1191,7 @@ bb({body:"normal", mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: The point is WE'RE GOING TO DIE ALONE
+b: Vấn đề ở đây là CẬU SẼ CHẾT TRONG CÔ ĐƠN
 
 ```
 hong({mouth:"shock", eyes:"shock"});
