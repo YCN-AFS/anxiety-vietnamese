@@ -657,7 +657,7 @@ h: Được rồi mình chia sẻ, nhưng im lặng giùm mình được không?
 
 `hong({mouth:"neutral", eyes:"annoyed"});`
 
-h: Thôi kệ, mình xem trên Instagram có gì đã.
+h: Thôi kệ, mình xem trên Twitter có gì đã.
 
 (#act1e)
 
@@ -781,16 +781,16 @@ hong({mouth:"neutral", eyes:"neutral"});
 bb({mouth:"normal", eyes:"normal"});
 ```
 
-[Cậu đổi ý ư? Thật ngu ngốc!](#act1e_yes_dontchange)
+[Đổi ý ư? Cậu khùng hả?!](#act1e_yes_dontchange)
 
-[Đổi ý đi! Ở đó đông đúc quá!](#act1e_yes_changetono)
+[Từ chối đi! Ở đó đông đúc quá!](#act1e_yes_changetono)
 
 {{if _.subtweet}}
 [Yeah they were totally subtweeting us.](#act1e_ignore_subtweet)
 {{/if}}
 
 {{if _.badnews}}
-[Khoan đã, cậu chia sẻ lại bữa tiệc mà không kiểm tra...](#act1e_ignore_factcheck)
+[Khoan đã, cậu đăng lại bữa tiệc mà không kiểm tra...](#act1e_ignore_factcheck)
 {{/if}}
 
 {{if (!_.subtweet && !_.badnews)}}
@@ -1334,44 +1334,44 @@ h: ...
 
 (...500)
 
-h: i'm so sick of this game.
+h: Mình chán ngấy cái trò chơi này quá rồi.
 
 (...700)
 
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
 h:
-{{if _.fifteencigs}}"loneliness will kill us"... {{/if}}
+{{if _.fifteencigs}}"sự cô đơn đang giết chết tớ"... {{/if}}
 {{if _.parasite}}"we're a society-parasite"... {{/if}}
 {{if _.whitebread}}"don't eat that, it'll kill us"... {{/if}}
 {{if _.subtweet}}"they're talking behind our back"... {{/if}}
-{{if _.badnews}}"the world is burning"... {{/if}}
-{{if _.hookuphole}}"we'll die alone"... {{/if}}
+{{if _.badnews}}"thế giới như muốn sụp đổ"... {{/if}}
+{{if _.hookuphole}}"tớ sẽ chết trong cô đơn"... {{/if}}
 {{if _.serialkiller}}"they're a serial killer"... {{/if}}
 {{if _.catmilk}}"cats can't digest milk"... {{/if}}
 {{if _.pokemon}}a ^crappy^ parody song... {{/if}}
 
-h: i just want to live my life.
+h: tớ chỉ muốn sống cuộc đời của riêng mình.
 
-h: i just want to be free from all this... pain.
+h: tớ chỉ muốn thoát khỏi tất cả những đau khổ này.
 
 `bb({eyes:"look_sad"});`
 
-b: Hey... human...
+b: Này... con người...
 
 `Game.OVERRIDE_TEXT_SPEED = 0.5;`
 
-b: It'll be okay.
+b: Mọi thứ rồi cũng sẽ ổn thôi.
 
 (...600)
 
 `bb({body:"point_heart", eyes:"look_sad_smile", mouth:"smile"});`
 
-b: As your loyal guard-wolf, I'll always keep an eye out for danger, and do my best to keep you safe.
+b: Là chú sói bảo vệ trung thành của cậu, mình sẽ luôn cảnh giác với các mối nguy và cố gắng hết sức để giữ cậu được an toàn.
 
 `bb({body:"normal", eyes:"look_sad", mouth:"smile"});`
 
-b: I promise.
+b: Mình hứa.
 
 (...600)
 
@@ -1380,29 +1380,29 @@ bb({body:"normal", eyes:"normal", mouth:"normal"});
 hong({body:"phone1", eyes:"neutral", mouth:"neutral"});
 ```
 
-h: Last app. Instagram. What you got?
+h: App cuối cùng. Instagram. Xem thử nó có gì nào?
 
 `hong({eyes:"sad"});`
 
-h: It's... more party pictures.
+h: Đây là... lại thêm nhiều ảnh buổi tiệc nữa.
 
 `hong({mouth:"sad"});`
 
-h: Everyone looks so happy. Free from worry. Free from anxiety.
+h: Mọi người trông thật vui vẻ. Không lo lắng, không sợ hãi.
 
 `hong({mouth:"anger"});`
 
-h: God, why can't I be like them? Why can't I just be *normal?*
+h: Trời ơi, tại sao mình không thể giống họ? Tại sao mình không thể *bình thường* như họ?
 
 `bb({eyes:"normal_right"});`
 
-b: Speaking of parties, about this weekend's invite. Here's my FINAL decision:
+b: Nói về buổi tiệc cuối tuần, theo quyết định CUỐI CÙNG của mình:
 
 `bb({eyes:"normal"});`
 
-[We should go.](#act1g_go) `Game.OVERRIDE_CHOICE_LINE=true`
+[Cậu nên đi.](#act1g_go) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[We should not go.](#act1g_dont) `Game.OVERRIDE_CHOICE_LINE=true`
+[Cậu nên từ chối.](#act1g_dont) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act1g_go
 
@@ -1418,35 +1418,35 @@ b: Speaking of parties, about this weekend's invite. Here's my FINAL decision:
 
 # act1h
 
-b: We sh--
+b: Cậu nên--
 
 ```
 bb({eyes:"wat", mouth:"small"});
 hong({body:"2_fuck"});
 ```
 
-h: *^FUCK^.*
+h: *^Đ!T CON MẸ^.*
 
 `hong({body:"2_you"});`
 
-h: YOU.
+h: NÓ.
 
 (...500)
 
-b: w
+b: sa
 
 (...1500)
 
 `bb({eyes:"wat_2"});`
 
-b: wha?
+b: sao vâ?
 
 `hong({body:"phone1", eyes:"anger", mouth:"anger"});`
 
-h: I'm going to say YES to that party,
+h: Mình sẽ THAM GIA buổi tiệc,
 
 {{if _.act1g=="go"}}
-h: NOT because you want me to, but because *I* want to.
+h: KHÔNG PHẢI vì cậu muốn mình làm vậy, mà là vì *bản thân* mình muốn làm điều đó.
 {{/if}}
 
 {{if _.act1g=="dont"}}
@@ -1458,14 +1458,14 @@ hong({body:"putaway"});
 sfx("rustle");
 ```
 
-h: You're NOT in control of me.
+h: Cậu KHÔNG THỂ kiểm soát được mình.
 
 ```
 sfx("rustle2");
 hong({body:"0_sammich", eyes:"0_annoyed", mouth:"0_neutral"});
 ```
 
-h: Now excuse me while I eat this delicious sandwich in ^goddamn^ peace.
+h: Giờ xin phép để mình thưởng thức chiếc sandwich ngon tuyệt này trong yên bình.
 
 `hong({body:"2_sammich_eat"});`
 
@@ -1503,11 +1503,11 @@ b: ..................
 
 `bb({mouth:"normal"});`
 
-[AHHHH WE'RE GONNA DIE](#act1h_death) `Game.OVERRIDE_CHOICE_LINE = true;`
+[AHHHH CẬU SẼ CHẾT MẤT](#act1h_death) `Game.OVERRIDE_CHOICE_LINE = true;`
 
-[AHHHH EVERYONE HATES US](#act1h_loneliness) `Game.OVERRIDE_CHOICE_LINE = true;`
+[AHHHH MỌI NGƯỜI ĐỀU GHÉT CẬU](#act1h_loneliness) `Game.OVERRIDE_CHOICE_LINE = true;`
 
-[AHHHH WE'RE HORRIBLE PEOPLE](#act1h_worthless) `Game.OVERRIDE_CHOICE_LINE = true;`
+[AHHHH CẬU LÀ MỘT KẺ THẬT TỆ HẠI](#act1h_worthless) `Game.OVERRIDE_CHOICE_LINE = true;`
 
 # act1h_death
 
@@ -1516,7 +1516,7 @@ bb({body:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 3;
 ```
 
-b: AHHHH WE'RE GONNA DIE AAAAAAHHHHHHH
+b: AHHHH CẬU SẼ CHẾT MẤT AAAAAAHHHHHHH
 
 ```
 hong({body:"3_defeated1"});
@@ -1534,7 +1534,7 @@ bb({body:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 3;
 ```
 
-b: AHHHH EVERYONE HATES US AAAAAAHHHHHHH
+b: AHHHH MỌI NGƯỜI ĐỀU GHÉT CẬU AAAAAAHHHHHHH
 
 ```
 hong({body:"3_defeated1"});
@@ -1552,7 +1552,7 @@ bb({body:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 3;
 ```
 
-b: AHHHH WE'RE HORRIBLE PEOPLE AAAAAAHHHHHHH
+b: AHHHH CẬU LÀ MỘT KẺ THẬT TỆ HẠI AAAAAAHHHHHHH
 
 ```
 hong({body:"3_defeated1"});
@@ -1570,39 +1570,39 @@ bb({mouth:"smile_lock", eyes:"smile", body:"normal"});
 music('battle', {volume:0.5});
 ```
 
-n: CONGRATULATIONS
+n: CHÚC MỪNG
 
 (...500)
 
-n: YOU'VE SUCCESSFULLY PROTECTED YOUR HUMAN'S PHYSICAL + SOCIAL + MORAL NEEDS
+n: BẠN ĐÃ BẢO VỆ BẢN THÂN THÀNH CÔNG KHỎI NHU CẦU VỀ THỂ CHẤT + XÃ HỘI + ĐẠO ĐỨC CỦA CON NGƯỜI
 
-n: WHY, LOOK HOW GRATEFUL THEY ARE!
+n: TẠI SAO Ư? NHÌN XEM HỌ BIẾT ƠN NHƯ THẾ NÀO KÌA!
 
 (...500)
 
-n: NOW THAT THEIR ENERGY IS ZERO, YOU CAN DIRECTLY CONTROL THEIR ACTIONS
+n: BÂY GIỜ NĂNG LƯỢNG CỦA HỌ ĐÃ BẰNG KHÔNG, BẠN CÓ THỂ KIỂM SOÁT HÀNH ĐỘNG CỦA HỌ
 
 `bb({mouth:"smile", eyes:"normal"});`
 
-n: PICK YOUR ENDING MOVE
+n: CHỌN HÀNH ĐỘNG ĂN MỪNG CỦA BẠN
 
 `bb({mouth:"small_lock", eyes:"fear"});`
 
-n: *FINISH THEM*
+n: *ĐÒN KẾT LIỄU*
 
-[{FIGHT: Punish your stressful phone!}](#act1i_phone) `Game.OVERRIDE_CHOICE_LINE=true`
+[{FIGHT: Trừng phạt chiếc điện thoại làm bạn buồn!}](#act1i_phone) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[{FLIGHT: Curl up in a ball and cry!}](#act1i_cry) `Game.OVERRIDE_CHOICE_LINE=true`
+[{FLIGHT: Cuộn tròn lại và khóc!}](#act1i_cry) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act1i_phone
 
 `bb({mouth:"normal", eyes:"narrow"})`
 
-b: Your phone was giving you a panic attack!
+b: Cái điện thoại đang làm cho cậu xuống tinh thần!
 
 `bb({eyes:"anger"})`
 
-b: Zuckerberg and Co are hijacking your mental health for venture capitalist money!
+b: Zuckerberg và đồng bọn đang bào mòn sức khỏe tinh thần cậu để kiếm tiền của các nhà đầu tư mạo hiểm!
 
 ```
 bb({body:"fear", eyes:"fear"});
@@ -1610,7 +1610,7 @@ hong({body:"3_defeated2"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Punish your phone! Destroy it! Kill it!
+b: Trừng phạt điện thoại của cậu! Phá nó! Đập nó đi!
 
 ```
 Game.OVERRIDE_TEXT_SPEED = 2.5;
@@ -1619,7 +1619,7 @@ hong({body:"3_defeated3"});
 _.act1_ending = "fight";
 ```
 
-b: KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL IT KILL I--
+b: ĐẬP ĐIỆN THOẠI ĐẬP ĐIỆN THOẠI ĐẬP ĐIỆN THOẠI ĐẬP ĐIỆN THOẠI ĐẬP ĐIỆN THOẠI ĐẬP ĐIỆN THOẠI ĐẬP ĐIỆN THOẠI ĐẬP ĐIỆN THOẠI ĐẬP NÓ ĐI--
 
 (#act1j)
 
