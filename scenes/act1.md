@@ -447,11 +447,11 @@ b: Fifteen cigarettes a day, human! Fifteen!
 {{/if}}
 
 {{if !_.fifteencigs}}
-b: Nếu từ chối, sẽ không có ai đến dự đám tang của cậu, cậu sẽ chết trong cô đơn và thi thể cậu sẽ làm mồi cho thú hoang,
+b: Nếu từ chối, sẽ không có ai đến dự đám tang của cậu, cậu sẽ chết trong cô đơn và thi thể cậu sẽ làm mồi cho QUẠ,
 {{/if}}
 
 {{if !_.fifteencigs}}
-b: và cậu sẽ trở thành PHÂN của bọn chúng!
+b: và cậu sẽ trở thành PHÂN QUẠ!
 {{/if}}
 
 {{if !_.fifteencigs}} `_.whalepoop = true` {{/if}}
@@ -481,12 +481,12 @@ b: Miễn là họ không tiếp đã mình bằng BÁNH MÌ TRẮNG
 
 `hong({mouth:"anger", eyes:"anger"});`
 
-h: GOD. If it'll make you shut up, fine.
+h: ^CON MẸ NÓ^, cậu có thể  ^ngậm miệng^ lại được không? Mình ổn.
 
-h: I'll say yes.
+h: Mình sẽ tham gia bữa tiệc..
 
 {{if _.whalepoop}}
-b: Whale poop, human! Whale poop!
+b: Phân quạ, con người! Đừng để chết trong cô đơn!
 {{/if}}
 
 `_.partyinvite="yes"`
