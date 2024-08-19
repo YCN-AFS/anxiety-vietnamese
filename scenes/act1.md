@@ -447,7 +447,7 @@ b: Fifteen cigarettes a day, human! Fifteen!
 {{/if}}
 
 {{if !_.fifteencigs}}
-b: Nếu từ chối, sẽ không có ai đến dự đám tang của cậu, cậu sẽ chết trong cô đơn và thi thể cậu sẽ làm mồi cho QUẠ,
+b: Nếu từ chối, cậu sẽ chết trong cô đơn và xác cậu sẽ bị vứt ra đường QUẠ rỉa thịt,
 {{/if}}
 
 {{if !_.fifteencigs}}
@@ -595,19 +595,19 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 hong({mouth:"neutral", eyes:"annoyed"});
 ```
 
-h: Anyway. Facebook's too much. I need something calmer, less anxiety-producing.
+h: Dù sao thì, mình lướt Faceboọk nhiều quá. Mình cần tìm thứ gì đó để chữa lành và ít tiêu cực hơn.
 
 `hong({eyes:"neutral"});`
 
-h: What's new on Twitter?
+h: Có gì hay trên Tiktok không nhỉ?
 
 `bb({eyes:"look"});`
 
-[Oh no, look at that horrible news story!](#act1d_news)
+[Trời ơi, xem cái video kia mà sởn cả gai ốc!](#act1d_news)
 
-[Oh no, is that tweet secretly about *us?*](#act1d_subtweet)
+[Trời ơi, cái video đó đang nói về *mình* sao?](#act1d_subtweet)
 
-[Hey, a GIF of a cat drinking milk](#act1d_milk)
+[Ơ kìa,video về một chú mèo đang uống sữa.](#act1d_milk)
 
 
 # act1d_news
