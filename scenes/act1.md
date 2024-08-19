@@ -8,7 +8,7 @@ SceneSetup.act1();
 
 n: VÀ ĐÂY LÀ NỖI LO ÂU CỦA CON NGƯỜI
 
-n: _MI_ CHÍNH LÀ NỖI LO ÂU?
+n: _BẠN_ CHÍNH LÀ NỖI LO ÂU
 
 {{if window.localStorage.continueChapter=="replay"}}
 (#act1_replay)
@@ -141,7 +141,7 @@ b: And then we'll--
 
 `bb({body:"panic"})`
 
-b: DIEEEEEEEEEEEEEEEEEEE
+b: CHẾTTTTTTTTTTTTTTTTTTTTT
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -237,7 +237,7 @@ b: (Nguồn: Holt-Lunstad 2010, PLoS Medicine)
 
 `hong({eyes:"0_annoyed"})`
 
-h: Ừm, cảm ơn mi đã trích dẫn nguồn nhưng--
+h: Ừm, cảm ơn cậu đã trích dẫn nguồn nhưng--
 
 `Game.OVERRIDE_TEXT_SPEED = 2;`
 
@@ -247,7 +247,7 @@ b: Điều đó có nghĩa là nếu cậu không đi chơi với ai đó *ngay 
 
 `bb({body:"panic"})`
 
-b: CHẾTTTTTTTTT
+b: CHẾTTTTTTTTTTTTTTTTTTTTT
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -272,6 +272,7 @@ hong({body:"0_sammich"});
 ```
 
 b: Hãy lấy laptop ra và bắt đầu làm việc ngay bây giờ!
+
 `hong({eyes:"0_annoyed"})`
 
 h: Hừmm, mình không muốn có vụn bánh mì rơi vào bàn phím--
@@ -281,16 +282,16 @@ bb({mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: If we're not contributing to the body of society then we're a society-parasite!
+b: Nếu không đóng góp cho xã hội thì cậu chả khác gì một kẻ ăn bám xã hội cả!
 
-b: The society-body will go to the society-doctor for medication to kill their society-parasites then we'll--
+b: Xã hội này giống như một cơ thể, các "tế bào miễn dịch" sẽ tìm kiếm và đào thải những kẻ ăn bám, và khi đó cậu sẽ--
 
 ```
 bb({body:"panic", mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: DIEEEEEEEEEEEEEEEEEEE
+b: CHẾTTTTTTTTTTTTTTTTTTTTT
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -314,18 +315,18 @@ bb({body:"normal", mouth:"normal", eyes:"fear"});
 hong({body:"0_sammich", eyes:"0_annoyed"});
 ```
 
-h: Have those studies been replicat--
+h: Nghiên cứu đó đã được kiểm chứng chưa--
 
 ```
 bb({body:"fear", mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Processed wheat will spike our blood sugar so they'll have to amputate all our limbs and then we'll-
+b: Ăn lúa mì đã qua chế biến sẽ làm tăng lượng đường trong máu dẫn tới việc cậu phải cắt cụt chi và sau đó cậu sẽ-
 
 `bb({body:"panic"})`
 
-b: DIEEEEEEEEEEEEEEEEEEE
+b: CHẾTTTTTTTTTTTTTTTTTTTTT
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -360,7 +361,7 @@ n: LÀM CHO THANH NĂNG LƯỢNG CỦA CON NGƯỜI VỀ CON SỐ 0
 
 n: ĐỂ BẢO VỆ NHU CẦU VỀ THỂ CHẤT + XÃ HỘI + ĐẠO ĐỨC, BẠN CÓ THỂ SỬ DỤNG:
 
-n: SỢ *BỊ TỔN THƯƠNG*#harm#
+n: SỢ *BỊ TỔN THƯƠNG* #harm#
 
 n: SỢ *KHÔNG ĐƯỢC YÊU THƯƠNG* #alone#
 
@@ -427,7 +428,7 @@ h: Mà, mình cũng được mời?
 
 `bb({eyes:"fear", mouth:"normal"});`
 
-b: Vậy thì tốt!
+b: Ồ, vậy à!
 
 [Đồng ý đi, nếu không cậu sẽ chết vì cô đơn!](#act1c_loner)
 
@@ -446,11 +447,11 @@ b: Fifteen cigarettes a day, human! Fifteen!
 {{/if}}
 
 {{if !_.fifteencigs}}
-b: Then no one will show up at our funeral, they'll dump our ashes into the ocean, we get eaten by a whale,
+b: Nếu từ chối, sẽ không có ai đến dự đám tang của cậu, cậu sẽ chết trong cô đơn và thi thể cậu sẽ làm mồi cho thú hoang,
 {{/if}}
 
 {{if !_.fifteencigs}}
-b: and we become WHALE POOP!
+b: và cậu sẽ trở thành PHÂN của bọn chúng!
 {{/if}}
 
 {{if !_.fifteencigs}} `_.whalepoop = true` {{/if}}
@@ -467,15 +468,15 @@ attack("18p", "alone");
 `bb({eyes:"normal"});`
 
 {{if !_.fifteencigs}}
-b: So yeah we should go to that party!
+b: Vậy có lẽ mình sẽ đi đến bữa tiệc đó!
 {{/if}}
 
 {{if _.parasite}}
-b: Just bring the laptop so we can do work, and not be a society-parasite.
+b: Mình cần mang theo máy tính xách tay để có thể làm việc, và không trở thành kẻ ăn bám của xã hội.
 {{/if}}
 
 {{if _.whitebread}}
-b: Just as long as they don't serve WHITE BREAD
+b: Miễn là họ không tiếp đã mình bằng BÁNH MÌ TRẮNG
 {{/if}}
 
 `hong({mouth:"anger", eyes:"anger"});`

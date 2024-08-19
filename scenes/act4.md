@@ -208,32 +208,32 @@ hong({body:"sigh_2"});
 bb({eyes:"look_down"});
 ```
 
-h: *sigh*
+h: *thở dài*
 
 ```
 hong({body:"hold", eyes:"normal", mouth:"normal"});
 bb({eyes:"normal"});
 ```
 
-h: So what the ^hell^ was the moral of this story?
+h: Vậy bài học rút ra từ câu chuyện ^ngu xuẩn^ này là gì?
 
 `hong({body:"one_up", eyes:"annoyed"})`
 
-h: What did we even *learn*? I *was* being stupid, my "friends" *were* using me, and we almost frickin' *died*.
+h: ‘Chúng ta đã  rút ra được *bài học* gì? Mình *thật là* ngu ngốc, những “người bạn” thì *đang cố* lợi dụng mình và chúng ta suýt nữa thì *chết*.
 
 `hong({body:"normal", eyes:"normal"})`
 
 {{if _.INJURED}}
-[Yeah, not to mention the hospital bill.](#act4a_bill)
+[Đúng thế, còn chưa kể tiền viện phí.](#act4a_bill)
 {{/if}}
 
 {{if !_.INJURED}}
 [Yeah, not to mention the liver damage.](#act4a_liver)
 {{/if}}
 
-[Yeah, that *was* the worst-case scenario.](#act4a_worst)
+[Phải rồi, đó *là* trường hợp xấu nhất.](#act4a_worst)
 
-[Yeah, I was right.](#act4a_right)
+[Yep, như mình cảnh báo.](#act4a_right)
 
 # act4a_bill
 

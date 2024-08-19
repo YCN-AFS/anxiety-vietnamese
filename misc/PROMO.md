@@ -74,7 +74,7 @@ b: Which means if you don't hang out with someone *right now* you're gonna-
 
 `bb({body:"panic"})`
 
-b: DIEEEEEEEEEEEEEEEEEEE
+b: CHẾTTTTTTTTTTTTTTTTTTTTT
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
