@@ -23,14 +23,14 @@
 publish("act2",["dee",3]);
 ```
 
-s: But did you *see* that "news story" about that horrible thing happening somewhere?
+s: Nhưng cậu có *thấy* cái "bài báo" về chuyện kinh khủng xảy ra ở đâu đó không?
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: c-chà...
 
 ```
 publish("act2",["party_hunter",1]);
@@ -38,14 +38,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: God I hate the news. It's all sensationalism and clickbait.
+a: Trời ơi, mình ghét xem tin tức. Toàn là giật gân và câu view.
 
 ```
 publish("act2",["dum",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: h... buổi tiệc tuyệt ghê...
 
 ```
 publish("act2",["party_hong","next"]);
@@ -53,13 +53,13 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: True, but they're just following incentives. The *real* problem is people who click the clickbait.
+s: Đúng vậy, nhưng họ chỉ đang theo đuổi lợi ích thôi. Vấn đề *thực sự* là ở những người nhấp vào các bài câu view đó.
 
 ```
 publish("act2",["dee",3]);
 ```
 
-s: Who would retweet a terrible news story, and make all their friends feel bad?
+s: "Ai lại đi chia sẻ một tin tức tồi tệ, rồi làm cho bạn bè của họ cảm thấy tệ chứ?"
 
 ```
 publish("act2",["party_hunter",1]);
@@ -67,7 +67,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: "Ôi trời, biết mà!"
 
 (#act2-preamble-end)
 
@@ -78,14 +78,14 @@ a: Ugh, I know right?
 publish("act2",["dee",3]);
 ```
 
-s: But did you *see* that "news story" going viral?
+s: Nhưng cậu *có thấy* cái "tin" đó đang lan truyền mạnh không?
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: c-chà...
 
 ```
 publish("act2",["party_hunter",1]);
@@ -93,14 +93,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: Yeah, totally fake. Who would fall for that and retweet it?
+a: Ừ,  nó hoàn toàn là tin giả. Ai lại tin vào đó và chia sẻ lại nó chứ?
 
 ```
 publish("act2",["dum",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: hmm... buổi tiệc vui ghê...
 
 ```
 publish("act2",["party_hong","next"]);
@@ -108,7 +108,8 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Seriously dude. Like, hello, open up Google and factcheck first?
+s: Nói thật đấy, trời ơi. Như kiểu họ không biết mở Google lên mà kiểm tra thông tin trước ấy?
+
 
 ```
 publish("act2",["party_hunter",1]);
@@ -116,7 +117,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: a: Ôi trời, biết mà!
 
 (#act2-preamble-end)
 
@@ -127,14 +128,15 @@ a: Ugh, I know right?
 publish("act2",["dee",3]);
 ```
 
-s: Like I was saying, the Meme Industrial Complex exploits cats.
+s: Như tôi đã nói, tổ hợp công nghiệp Meme đang lợi dụng mèo.
+
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: c-chà...
 
 ```
 publish("act2",["party_hunter",1]);
@@ -142,14 +144,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",1]);
 ```
 
-a: Elaborate on this thesis.
+a: Nói rõ hơn về ý này đi.
 
 ```
 publish("act2",["dum",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: hmm... buổi tiệc vui ghê...
 
 ```
 publish("act2",["party_hong","next"]);
@@ -157,13 +159,13 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: Well, I saw someone retweet a GIF of a cat drinking milk yesterday.
+s: Ừ, tôi thấy ai đó chia sẻ ảnh một con mèo uống sữa hôm qua.
 
 ```
 publish("act2",["dee",3]);
 ```
 
-s: They can't digest that ^crap^! Who would retweet *animal abuse* like that?
+s: Mèo không tiêu hóa được cái ^đó^ đâu! Ai lại đi chia sẻ hành động *ngược đãi động vật* như thế chứ?
 
 ```
 publish("act2",["party_hunter",1]);
@@ -171,7 +173,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: a: Ôi trời, biết mà!
 
 (#act2-preamble-end)
 
@@ -182,14 +184,14 @@ a: Ugh, I know right?
 publish("act2",["dee",1]);
 ```
 
-s: So yeah they never replied back!
+s: Vậy nên, đúng là họ không bao giờ trả lời lại!
 
 ```
 publish("act2",["dee",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: c-chà...
 
 ```
 publish("act2",["party_hunter",1]);
@@ -197,14 +199,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",1]);
 ```
 
-a: Even though you both matched each other on Tinder?
+a: Cả hai đã được ghép đôi với nhau trên Tinder mà vẫn không trả lời sao?
 
 ```
 publish("act2",["dum",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: hmm... buổi tiệc vui ghê...
 
 ```
 publish("act2",["party_hong","next"]);
@@ -229,7 +231,8 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! What, did they think I was a *serial killer* or something? So paranoid.
+s: Ừ, tôi cũng không biết nữa! Họ nghĩ tôi là *kẻ giết người hàng loạt* hay gì sao? Đúng là hoang tưởng.
+
 
 ```
 publish("act2",["party_hunter",1]);
@@ -237,7 +240,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: a: Ôi trời, biết mà!
 
 (#act2-preamble-end)
 
@@ -249,9 +252,10 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! Maybe they think hookups can't fill the hole in their heart?
+s: Ừ, tôi không biết nữa! Có lẽ họ nghĩ mấy cuộc tình chớp nhoáng không thể lấp đầy khoảng trống trong tim họ?
 
-s: Stop being such a prude! Open your mind, then open your legs!
+
+s: Đừng có cổ hủ như vậy nữa! Hãy mở lòng ra, rồi mở chân ra!
 
 ```
 publish("act2",["party_hunter",1]);
@@ -259,7 +263,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: a: Ôi trời, biết mà!
 
 (#act2-preamble-end)
 
@@ -271,7 +275,8 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! They weren't that hot, but they would have been a nice catch!
+s: Ừ, tôi không biết nữa! Họ cũng không phải đẹp lắm, nhưng mà nếu được thì cũng hay đấy chứ!
+
 
 ```
 publish("act2",["party_hunter",1]);
@@ -279,7 +284,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Gotta Catch 'Em All!™
+a: Phải bắt lấy  hết!™
 
 (#act2-preamble-end)
 
@@ -302,25 +307,27 @@ bb({body:"normal", mouth:"normal", eyes:"normal"});
 
 n: ROUND TWO: *FIGHT!*
 
-[Oh no they all hate us!](#act2a_social)
+[Oh không, tất cả bọn họ đều ghét cậu!](#act2a_social)
 
-[Were you *ogling* the redhead?](#act2a_perv)
+[Có phải cậu đang *nhìn chằm chằm* cô gái tóc đỏ không?](#act2a_perv)
 
-[Hey, let's talk about the meaning of life.](#act2a_meaning)
+[Này, hãy nói về ý nghĩa của cuộc sống nhé.](#act2a_meaning)
 
 # act2a_social
 
 `bb({eyes:"sad"})`
 
-b: We're bringing down the mood of this party by being such a sad lump!
+b: Cậu đang làm không khí của bữa tiệc này u ám đi vì quá ủ rũ!
+
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: We're killing the good vibes! We're committing first-degree vibe-murder!
+b: Cậu đang làm hỏng hết bầu không khí vui vẻ ở đây rồi!
 
 `bb({eyes:"normal", body:"normal"})`
 
-b: Human, we have to leave *now* before--
+b: Con người, chúng ta phải rời khỏi đây *ngay lập tức* trước khi--
+
 
 ```
 _.a2_first_danger = 'social';
@@ -333,15 +340,17 @@ _.a2_attack_1 = "alone";
 
 `bb({eyes:"suspect"})`
 
-b: They're more attractive than us, which means if we even *look* at them, then--
+b: Họ xinh đẹp hơn cậu, điều đó có nghĩa là nếu cậu  thậm cứ *nhìn* chằm chằm vào họ, thì--
+
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: WE'RE CREEPS
+b: CẬU LÀ KẺ BIẾN THÁI
 
 `bb({body:"normal"})`
 
-b: We're creepy, evil, bad bad bad terrible terrible perv--
+b: Cậu thật kỳ quái, xấu xa, tồi tệ tồi tệ tồi tệ,  thật ghê tởm--
+
 
 ```
 _.a2_first_danger = 'perv';
@@ -354,31 +363,35 @@ _.a2_attack_1 = "bad";
 
 `bb({body:"one_up", eyes:"normal_r"})`
 
-b: At the end of it all, what can we possibly do that really matters? 
+b: Cuối cùng, cậu có thể làm gì đó thật sự quan trọng?
+
 
 `bb({body:"normal", eyes:"sad"})`
 
-b: Contribute to humanity? All great works decay the way of Ozymandias. Love? Death will always do it part.
+b: Đóng góp cho nhân loại? Tất cả các tác phẩm vĩ đại đều sẽ bị suy tàn như Ozymandias. Tình yêu? Chết luôn là điều chia lìa.
+
 
 `bb({eyes:"sad_r"})`
 
-b: And how much death there is! *We* will die. *Our loved ones* will die.
+b: Và có bao nhiêu cái chết đến thế! *Cậu* sẽ chết. *Những người thân yêu của cậu* cũng sẽ chết.
+
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: Heck, the Second Law of Thermodynamics means even our *universe* will die!
+b: Thậm chí, Định luật thứ hai của Nhiệt động lực học có nghĩa là ngay cả *vũ trụ* của chúng ta cũng sẽ chết!
 
 `bb({eyes:"suspect", body:"normal"})`
 
-b: Oh, "death makes us appreciate life"? That's like saying slavery is good because it makes us appreciate freedom!
+b: Ôi, "cái chết làm cho chúng ta trân trọng cuộc sống"? Điều đó giống như nói rằng chế độ nô lệ là tốt vì nó làm cho chúng ta trân trọng tự do!
+
 
 `bb({body:"one_up"})`
 
-b: Oh, "you need to make your own meaning"? That's what cultists and conspiracy theorists do!
+b: Ôi, "cậu cần tự tạo ra ý nghĩa cho chính mình"? Đó là điều mà những kẻ sùng bái và các nhà lý thuyết âm mưu làm!
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: Life has no meaning, death has no meaning, even *meaning* has no meaning! What is a mortal soul supposed to--
+b: Cuộc sống không có ý nghĩa, cái chết không có ý nghĩa, thậm chí *ý nghĩa* cũng không có ý nghĩa! Một linh hồn phàm trần nên--
 
 ```
 _.a2_first_danger = 'meaning';
@@ -395,7 +408,7 @@ b: ...
 
 `bb({eyes:"suspect"})`
 
-b: Um... can you hear me, human?
+b: Ủa... cậu có nghe mình nói không, con người?
 
 `bb({eyes:"normal", MOUTH_LOCK:true})`
 
@@ -403,23 +416,23 @@ b: ...
 
 `bb({eyes:"shock", mouth:"small_talk", body:"chest", MOUTH_LOCK:true})`
 
-b: *GASP*
+b: *HÙ*
 
 `bb({mouth:"small_talk"})`
 
-b: I MUST WARN YOU ABOUT...
+b: MÌNH PHẢI CẢNH BÁO CẬU VỀ...
 
-[*More* of the same danger!](#act2b_louder)
+[*Hơn nữa* của cùng một mối nguy hiểm!](#act2b_louder)
 
 {{if _.a2_first_danger=="social"}}
-[A *different* social danger!](#act2b_different_social)
+[Một *mối nguy hiểm xã hội* khác!](#act2b_different_social)
 {{/if}}
 
 {{if _.a2_first_danger=="perv" || _.a2_first_danger=="meaning"}}
-[A *different* moral danger!](#act2b_different_moral)
+[Một *mối nguy hiểm đạo đức* khác!](#act2b_different_moral)
 {{/if}}
 
-[You're ignoring danger! That's dangerous!](#act2b_ignore)
+[Bạn đang phớt lờ mối nguy hiểm! Điều đó thật nguy hiểm!](#act2b_ignore)
 
 # act2b_louder
 
@@ -441,13 +454,13 @@ b: I MUST WARN YOU ABOUT...
 
 `bb({eyes:"shock", body:"two_up", mouth:"normal"})`
 
-b: EMOTIONS ARE CONTAGIOUS! SO IF YOU DON'T LEAVE YOU'LL INFECT EVERYONE WITH YOUR MENTAL ILLNESS! 
+b: CẢM XÚC LÀ RẤT DỄ LÂY LAN! NẾU CẬU KHÔNG RỜI KHỎI ĐÂY, CẬU SẼ LÂY NHIỄM MỌI NGƯỜI VỚI CĂN BỆNH TINH THẦN CỦA MÌNH!
 
-b: You'll create a deadly outbreak of SAD LUMP SYNDROME
+b: Cậu sẽ gây ra một đợt bùng phát chết người của HỘI CHỨNG KHOÁI ĐỜI BUỒN BÃ
 
 `bb({eyes:"suspect", body:"normal", mouth:"normal"})`
 
-b: We need to get out of here and quarantine ourselves forever in a small room with Netflix and food delivery!
+b: Cậu cần phải rời khỏi đây và tự cách ly mãi mãi trong một căn phòng nhỏ với Netflix và dịch vụ giao đồ ăn!
 
 ```
 _.a2_second_danger = 'netflix';
@@ -461,7 +474,7 @@ _.a2_hoodie_callback = "a quarantine";
 
 `bb({eyes:"suspect", body:"two_up", mouth:"normal"})`
 
-b: DON'T BE A CREEP. IT'S AGAINST THE LAW!
+b: ĐỪNG CÓ CỐ TỎ TA NGUY HIỂM. ĐIỀU ĐÓ LÀ TRÁI PHÁP LUẬT!
 
 `bb({eyes:"judge", body:"judge_1", mouth:"normal"})`
 
@@ -486,11 +499,11 @@ sfx("gravel");
 
 (...501)
 
-b: Creep Law, Section 74.5: (1) Any Person who checks out (a) those muscular shoulders (b) that bubble booty (2) shall be hereby known as
+b: Luật Về Kẻ Theo Dõi, Mục 74.5: (1) Bất kỳ ai kiểm tra (a) đôi vai cơ bắp (b) vòng ba căng tròn (2) sẽ được gọi là
 
 `bb({eyes:"shock", body:"two_up", mouth:"normal"})`
 
-b: "A BIG DISGUSTING TRASH PERVERT"
+b: "MỘT KẺ BIẾN THÁI ĐÁNG GHÊ TỞM"
 
 ```
 _.a2_second_danger = 'law';
@@ -504,7 +517,7 @@ _.a2_hoodie_callback = "the law";
 
 `bb({body:"two_up", mouth:"normal", eyes:"shock"})`
 
-b: Actually, even if you find a noble purpose in life, you can *still* mess everything up!
+b: Thực ra, ngay cả khi cậu tìm thấy một mục đích cao cả trong cuộc sống, cậu có thể *vẫn* làm hỏng mọi thứ!
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
@@ -512,15 +525,15 @@ b: Alfred Nobel wanted world peace and for cultures to understand each other. So
 
 `bb({eyes:"normal_r"})`
 
-b: So he needed a way to cheaply create train tunnels. So he invented a new material called "dynamite"...
+b: Alfred Nobel muốn hòa bình thế giới và các nền văn hóa hiểu nhau hơn. Vì vậy, ông quyết định làm cho việc du lịch trở nên dễ dàng hơn...
 
 `bb({body:"one_up", eyes:"normal"})`
 
-b: which was used in World War I to KILL MILLIONS OF PEOPLE
+b: điều này đã được sử dụng trong Chiến tranh Thế giới thứ nhất để GIẾT HÀNG TRIỆU NGƯỜI
 
 `bb({body:"two_up", eyes:"shock"})`
 
-b: IT'S THE BUTTERFLY EFFECT, HUMAN! HOW MANY PEOPLE ARE YOU ACCIDENTALLY KILLING RIGHT NOW
+b: ĐÓ LÀ HIỆU ỨNG CON BƯỚM, CON NGƯỜI! HIỆN TẠI CẬU ĐANG VÔ TÌNH GIẾT RẤT NHIỀU NGƯỜI
 
 ```
 _.a2_second_danger = 'butterfly';
@@ -536,7 +549,7 @@ _.a2_hoodie_callback = "World War I";
 
 `bb({eyes:"normal_r", body:"point", mouth:"normal"})`
 
-b: Actually, you know what's worse than no-one liking you? *Everyone* liking you.
+b: Thực ra, cậu biết điều gì tồi tệ hơn việc không ai thích cậu không? Đó là *mọi người* đều thích cậu.
 
 `bb({body:"one_up", eyes:"suspect", mouth:"normal"})`
 
@@ -544,11 +557,11 @@ b: That is, becoming one of *these* pleasure-chasing party animals.
 
 `bb({body:"normal", mouth:"small"})`
 
-b: A shallow life with shallow friends who only know the shallow you!
+b: Cụ thể là, trở thành một trong những con người *tham lam* chỉ tìm kiếm niềm vui tại các bữa tiệc như thế này.
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: Human, we need to run away from these pleasure-zombies before they turn us into one of them!
+b: Con người, chúng ta cần phải chạy trốn khỏi những xác sống chỉ biết tìm kiếm niềm vui này trước khi chúng biến chúng ta thành một trong số chúng!
 
 ```
 _.a2_second_danger = 'zombies';
@@ -564,19 +577,19 @@ _.a2_hoodie_callback = "zombies";
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: People are dying in famines and genocides *right now* and we're just partying!
+b: Ngay bây giờ, có người đang chết đói và bị tẩy chay trong các cuộc diệt chủng, còn cậu chỉ đang tiệc tùng!
 
 `bb({body:"point", eyes:"closed", mouth:"small"})`
 
-b: A wise person once said, "the only thing necessary for the triumph of evil is for good folks to do nothing."
+b: Một người thông thái đã từng nói, "Điều duy nhất cần thiết để cái ác chiến thắng là những người tốt không làm gì cả."
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: WE'RE DOING NOTHING.
+b: CẬU ĐANG KHÔNG LÀM GÌ CẢ.
 
 `bb({mouth:"small"})`
 
-b: BY PARTYING, WE'RE HELPING *HITLER*.
+b: BẰNG VIỆC TIỆC TÙNG, CẬU ĐANG GIÚP ĐỠ *HITLER*.
 
 ```
 _.a2_second_danger = 'hitler';
@@ -592,15 +605,15 @@ _.a2_hoodie_callback = "Hitler";
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"})`
 
-b: You think you're safe just because you took the batteries out of the carbon monoxide detector?
+b: Cậu nghĩ mình an toàn chỉ vì đã tháo pin khỏi máy phát hiện khí carbon monoxide à?
 
 `bb({eyes:"suspect_r"})`
 
-b: You won't even smell the poison! You'll just get sleepy and then you'll--
+b: Cậu sẽ không ngửi thấy mùi khí độc đâu! Chỉ đơn giản là cậu sẽ cảm thấy buồn ngủ và rồi--
 
 `bb({body:"scream_c_1"})`
 
-b: DIEEEEEEEEEEEEEEEEEE
+b: CHẾTTTTTTTTTTTTTTT
 
 ```
 _.a2_second_danger = 'ignore';
@@ -621,7 +634,7 @@ b: ...
 
 `bb({eyes:"happy", mouth:"smile", body:"chest"})`
 
-b: Oh thank goodness human, I think you can hear me again!
+b: Ôi cảm ơn trời, mình nghĩ cậu có thể lại nghe thấy mình rồi!
 
 `bb({eyes:"closed", body:"point"})`
 
