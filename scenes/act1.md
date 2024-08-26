@@ -949,7 +949,7 @@ attack("18p", "harm");
 (...2500)
 
 {{if _.fifteencigs}}
-b: FIFTEEN. CIGARETTES.
+b: MƯỜI LĂM. THUỐC LÁ.
 {{/if}}
 
 ```
@@ -1342,9 +1342,9 @@ h: Mình chán ngấy cái trò chơi này quá rồi.
 
 h:
 {{if _.fifteencigs}}"sự cô đơn đang giết chết tớ"... {{/if}}
-{{if _.parasite}}"we're a society-parasite"... {{/if}}
-{{if _.whitebread}}"don't eat that, it'll kill us"... {{/if}}
-{{if _.subtweet}}"they're talking behind our back"... {{/if}}
+{{if _.parasite}}"mình là kẻ ăn bám xã hội"... {{/if}}
+{{if _.whitebread}}"không thể ăn, nó sẽ giết mình mất"... {{/if}}
+{{if _.subtweet}}"mọi người đang nói xấu sau lưng tớ"... {{/if}}
 {{if _.badnews}}"thế giới như muốn sụp đổ"... {{/if}}
 {{if _.hookuphole}}"tớ sẽ chết trong cô đơn"... {{/if}}
 {{if _.serialkiller}}"cậu ấy kẻ giết người hàng loạt"... {{/if}}
