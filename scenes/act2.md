@@ -911,9 +911,9 @@ attack("20p", _.a2_attack_3);
 
 (...1001)
 
-h: F^AAACK^!
+h: Đ^!TTTT^!
 
-h: F^ACK^ING F^ACK^-F^AKK^ITY *F^AAAAACK^*
+h: Đ^!T^ Đ^!TTTT^-Đ!^TTT^ CO... *Đ!^T CON MẸ NÓ...^*
 
 `bb({body:"two_up", mouth:"smile", eyes:"happy"});`
 
@@ -952,13 +952,14 @@ h: *Mình được yêu thương. Mình tốt bụng. Mình thông minh. Mình x
 
 [Cậu có biết lời khẳng định đã bị *bác bỏ* không?](#act2d_disproven)
 
-[Ôi trời đừng gán ghép những câu chuyện không có thật nữa ](#act2d_racist)
+[Ôi trời đừng gán ghép những thứ không có thật nữa](#act2d_racist)
 
 # act2d_disproven
 
 `bb({body:"point", mouth:"normal", eyes:"closed"})`
 
 b: Trên thực tế, chúng thực sự *phản tác dụng* đối với những người có lòng tự trọng thấp!
+
 `bb({body:"one_up", mouth:"small", eyes:"normal"})`
 
 b: It was a well-designed study – randomized controlled trial, experimenter was blinded as to who was in which group.
