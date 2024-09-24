@@ -6,7 +6,7 @@ Game.WORDS_HEIGHT_BOTTOM = 205;
 sfx("cheers");
 ```
 
-r: Cheers!
+r: Dô!
 
 ```
 publish("act3",["roofhunter",1]);
@@ -23,41 +23,41 @@ publish("act3",["roofhunter",3]);
 publish("act3",["roofhong",3]);
 ```
 
-h2: *Ah* that hits the spot.
+h2: Ah thật là đúng chỗ.
 
 ```
 publish("act3",["roofhunter",2]);
 publish("act3",["roofhong",2]);
 ```
 
-r: You know, kid...
+r: Cậu biết không, nhóc...
 
 ```
 publish("act3",["roofhunter",3]);
 publish("act3",["roofhong",6]);
 ```
 
-h2: Specifically, the spots hit are my left and right amygdala.
+h2: Cụ thể hơn, những điểm bị ảnh hưởng là hạch hạnh nhân bên trái và bên phải của mình.
 
 ```
 publish("act3",["roofhunter",8]);
 publish("act3",["roofhong",5]);
 ```
 
-r: You remind me of myself when I was younger. Back when I was tormented by the animal in my head.
+r: Cậu làm tớ nhớ đến bản thân hồi trẻ. Khi đó tớ cũng bị con thú trong đầu hành hạ.
 
 ```
 publish("act3",["roofhunter",9]);
 publish("act3",["roofhong",2]);
 ```
 
-r: I'm so grateful I can pay it forward, and help you kill the beast the way I killed mine.
+r: Tớ rất biết ơn vì có thể trả ơn, và giúp cậu tiêu diệt con thú theo cách mà tớ đã tiêu diệt con thú của mình.
 
 ```
 publish("act3",["roofhunter",2]);
 ```
 
-r: Hey, quick question: truth or da--
+r: Này, câu hỏi nhanh: sự thật hay...
 
 ```
 publish("act3",["roofhunter",3]);
@@ -65,7 +65,7 @@ publish("act3",["roofhong",7]);
 publish("act3-alpha", ["dizzyhong",0]);
 ```
 
-h2: DARE!
+h2: DÁM KHÔNG?!
 
 ```
 publish("act3-alpha", ["dizzyhong",1]);
@@ -73,14 +73,14 @@ publish("act3",["roofhunter",10]);
 publish("act3",["roofhong",2]);
 ```
 
-r: Haha! Good.
+r: Haha! Giỏi lắm.
 
 ```
 publish("act3",["roofhunter",21]);
 publish("act3",["roofhong",4]);
 ```
 
-r: Ok. You see that baby-blue swimming pool down there?
+r: Được rồi. Cậu thấy cái hồ bơi màu xanh da trời ở dưới kia không?
 
 ```
 publish("act3-alpha", ["dizzyhong",0]);
@@ -88,14 +88,14 @@ publish("act3",["roofhunter",11]);
 publish("act3",["roofhong",9]);
 ```
 
-h2: Yeah? Six floors down?
+h2: Ừ? Xuống sáu tầng à?
 
 ```
 publish("act3",["roofhunter",10]);
 publish("act3",["roofhong",8]);
 ```
 
-r: Jump in.
+r: Nhảy xuống đi.
 
 ```
 publish("act3",["roofhunter",11]);
@@ -108,39 +108,39 @@ h2: ...
 publish("act3",["roofhong",11]);
 ```
 
-h2: Wait, what?
+h2: Chờ đã, gì cơ?
 
 ```
 publish("act3",["roofhong",10]);
 publish("act3",["roofhunter",2]);
 ```
 
-r: The animal's started whining, hasn't it?
+r: Con thú trong người cậu đã bắt đầu kêu ca rồi, phải không?
 
 ```
 publish("act3",["roofhunter",23]);
 ```
 
-r: *Oh nooooo it's dangerous, don't do iiiiit.*
+r: *Không, nó nguy hiểm lắm, đừng làm thế*...
 
 ```
 publish("act3",["roofhunter",22]);
 ```
 
-r: But that's exactly why we need death-defying thrills! Party hard! Carpe diem! Snort coke off a hooker's ^ass^, #YOLO!
+r: Nhưng đó chính là lý do tại sao chúng ta cần những trải nghiệm mạo hiểm đánh cược mạng sống! Tiệc tùng hết mình! Tận hưởng từng khoảnh khắc! Hít ^cocaine^ từ ^mông^ của một cô gái ^mại dâm^, #YOLO!
 
 ```
 publish("act3",["roofhunter",10]);
 ```
 
-r: Show that animal we don't give two *^dick^s* about its ^bitch^ing! Jump in.
+r: Cho con thú thấy là chúng ta không thèm để ý đến sự kêu ca của nó! Nhảy vào đi.
 
 ```
 publish("act3",["roofhunter",11]);
 publish("act3",["roofhong",13]);
 ```
 
-h2: Uh, but sometimes, um... fear has a point...
+h2: Ừm, nhưng đôi khi, ờ... nỗi sợ có lý do của nó...
 
 ```
 publish("act3",["roofhunter",5]);
@@ -156,43 +156,43 @@ publish("act3",["roofhunter",6]);
 publish("act3",["dd",1]);
 ```
 
-r: I'm sorry, did you fall for that McMindfulness propaganda that claims feeling bad is *good?*
+r: Xin lỗi, cậu có phải đã bị mắc lừa bởi cái tuyên truyền McMindfulness nói rằng cảm thấy tệ lại là *tốt* không?
 
 ```
 publish("act3",["roofhunter",17]);
 ```
 
-r: The ^assholes^ who run this world give the rest of *us* anxiety and depression,
+r: Những ^thằng khốn^ điều hành thế giới này khiến phần còn lại của chúng ta bị lo âu và trầm cảm,
 
 ```
 publish("act3",["roofhunter",18]);
 ```
 
-r: Then make TED Talks to tell us to "accept" being ^fucked^ over, and "embrace" that sadistic demon in our heads!
+r: Rồi tổ chức các buổi TED Talk để bảo chúng ta "chấp nhận" việc bị ^đâm^ vào, và "ôm ấp" con quỷ tàn nhẫn trong đầu mình!
 
 ```
 publish("act3",["roofhunter",6]);
 ```
 
-r: Kid, I know that *you* know that animal *hurts* people like us. It *tortures* people like us.
+r: Nhóc, tớ biết rằng *cậu* biết con thú làm đau những người như chúng ta. Nó hành hạ những người như chúng ta.
 
 ```
 publish("act3",["roofhunter",19]);
 ```
 
-r: It's not our friend. It's a rabid beast, which either needs to be *tranquilized*,
+r: Nó không phải là bạn của chúng ta. Đó là một con thú điên cuồng, cần phải được *trấn tĩnh lại*,
 
 ```
 publish("act3",["roofhunter",20]);
 ```
 
-r: Or have a *bullet put in its skull*.
+r: Hoặc có *một viên đạn vào đầu nó*.
 
 ```
 publish("act3",["roofhunter",27]);
 ```
 
-r: Otherwise, you're going to let it win.
+r: Nếu không, cậu sẽ để nó thắng.
 
 ```
 publish("act3",["roofhunter",31]);
@@ -200,7 +200,7 @@ publish("act3",["roofhong",14]);
 publish("act3",["dd",2]);
 ```
 
-h2: No. You're wrong.
+h2: Không. Cậu sai rồi.
 
 ```
 publish("act3",["roofhunter",13]);
@@ -210,7 +210,7 @@ music('battle_dark', {volume:1.0}, function(){
 });
 ```
 
-h2: I'm not going to let it win.
+h2: Tớ sẽ không để nó thắng.
 
 ```
 publish("act3",["roofhunter",25]);
@@ -219,7 +219,7 @@ publish("act3-alpha", ["transition",1]);
 publish("act3",["dd",6]);
 ```
 
-r: ^Fuck^ yeah! I believe in you, babe! Kill it! <3
+r: Đúng vậy! Tớ tin cậu, cưng! Giết nó đi! <3
 
 (#act3a)
 
@@ -240,13 +240,13 @@ _.act3_bb_body = 1;
 publish("hp_show");
 ```
 
-b: no no no no no no
+b: Không không không không không không
 
-n: THIS CHAPTER HAS TWO POSSIBLE ENDINGS. ONE IS *VERY, VERY BAD.*
+n: CHƯƠNG NÀY CÓ HAI KẾT THÚC CÓ THỂ XẢY RA. MỘT CÁI RẤT, RẤT TỆ.
 
-b: NO NO NO NO NO NO NO NO NO NO NO NO NO NO
+b: KHÔNG KHÔNG KHÔNG KHÔNG KHÔNG KHÔNG KHÔNG KHÔNG KHÔNG KHÔNG KHÔNG KHÔNG KHÔNG KHÔNG
 
-n: CHOOSE WISELY. PROTECT YOUR HUMAN
+n: HÃY CHỌN KHÔN NGOAN. BẢO VỆ CON NGƯỜI CỦA BẠN.
 
 `bb({ eyes:"oh_crap", mouth:"normal_talk", MOUTH_LOCK:true });`
 
@@ -254,18 +254,18 @@ b: AAAAAAAAAAAAAAAAAA
 
 `bb({ mouth:"normal" });`
 
-n: GOOD LUCK
+n: CHÚC MAY MẮN
 
 ```
 Game.clearText();
 bb({ eyes:"start" });
 ```
 
-[Human, you could actually DIE here!](#act3a_harm) `Game.OVERRIDE_CHOICE_LINE=true`
+[Con người, cậu thực sự có thể CHẾT ở đây!](#act3a_harm) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[This is stupid and self-destructive!](#act3a_bad) `Game.OVERRIDE_CHOICE_LINE=true`
+[Đây thật ngu ngốc và một pha tự hủy!](#act3a_bad) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[These sickos aren't really your friends!](#act3a_alone) `Game.OVERRIDE_CHOICE_LINE=true`
+[Những kẻ bệnh hoạn này thực sự không phải là bạn của cậu đâu!](#act3a_alone) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act3a_harm
 
@@ -307,9 +307,9 @@ hong({ body:"normal" });
 bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 ```
 
-h: You know, I might've believed you... if you hadn't tried that a zillion times before.
+h: Cậu biết không, tớ có thể đã tin cậu... nếu cậu không thử điều đó hàng triệu lần trước đây.
 
-h: You're the wolf who cried wolf.
+h: Cậu là con sói kêu gọi sói (trong truyện Cậu bé chăn cừu).
 
 ```
 bb({ eyes:"sad" });
@@ -354,41 +354,41 @@ hong({ body:"normal" });
 bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 ```
 
-h: You tried that too.
+h: Cậu cũng đã thử điều đó.
 
-b: human, please...
+b: Người ơi, làm ơn...
 
 `hong({ eyes:"look_right" });`
 
-h: Oh I'm *sorry* Big Pharma doesn't approve of my self-medication.
+h: Ồ, tớ *xin lỗi* vì Big Pharma (công ty dược) không phê duyệt cách tự điều trị của tớ.
 
-h: Look ^asshole^, we *all* have a way of shutting you the ^fuck^ up.
+h: Nhìn ^thằng khốn^, chúng ta đều có cách để làm cậu im miệng.
 
 `hong({ body:"look_up", eyes:"look_up" });`
 
-h: Some people throw themselves into work.
+h: Một số người lao vào công việc.
 
 `hong({ body:"look_down", eyes:"look_down" });`
 
-h: Some people throw themselves into sex, drugs, and refreshing their Facebook feed.
+h: Một số người lao vào ^sex, ma túy^ và cập nhật liên tục bảng tin Facebook của họ.
 
 `hong({ body:"normal", eyes:"look_right" });`
 
-h: Some people throw themselves into other people. 
+h: Một số người lao vào người khác.
 
 `hong({ eyes:"angry" });`
 
-h: I'm going to throw myself into that swimming pool.
+h: Tớ sẽ nhảy vào cái hồ bơi đó.
 
-[You're drunk and it's SIX FLOORS DOWN](#act3_bad_1_harm)
+[Cậu say xỉn và còn  nhảy XUỐNG HẾT SÁU TẦNG nữa đấy!](#act3_bad_1_harm)
 
-[Dang it, this is the thanks I get?!](#act3_bad_1_insult) `bb({eyes:"angry"});`
+[Trời ạ, đây là sự cảm ơn mà tớ nhận được sao?!](#act3_bad_1_insult) `bb({eyes:"angry"});`
 
-[Okay, I admit it. I messed up.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
+[Được rồi, tớ thừa nhận. Tớ đã sai.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
 
 # act3_bad_1_harm
 
-b: Even if you land in the water, the surface tension will crack your ribs and give you a concussion *at the least!*
+b: Ngay cả khi cậu rơi xuống nước, sức căng bề mặt sẽ làm gãy xương sườn của cậu và *ít nhất* là gây chấn động não!
 
 h: Eh.
 
