@@ -98,13 +98,13 @@ bb({eyes:"look"});
 
 [Oh no, is that tweet secretly about *us?*](#act1d_subtweet)
 
-[Hey, a GIF of a cat drinking milk](#act1d_milk)
+[Hãy một GIF về một con mèo đang uống sữa.](#act1d_milk)
 
 # act1d_milk
 
 `hong({mouth:"smile", eyes:"surprise"});`
 
-h: Heh ya that's cute, I--
+h: Heh, đúng rồi, dễ thương quá, tớ--
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -112,7 +112,7 @@ bb({body:"scream"});
 Game.OVERRIDE_TEXT_SPEED = 1.8;
 ```
 
-b: CATS CAN'T DIGEST MILK AND WE'RE TERRIBLE PEOPLE FOR ENJOYING ANIMAL ABUSE
+b: MÈO KHÔNG THỂ TIÊU HÓA SỮA VÀ CẬU LÀ NGƯỜI TỒI TỆ VÌ THÍCH LÀM ĐAU ĐỘNG VẬT!
 
 (...200)
 
