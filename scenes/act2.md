@@ -117,7 +117,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: a: Ôi trời, biết mà!
+a: Ôi trời, biết mà!
 
 (#act2-preamble-end)
 
@@ -173,7 +173,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: a: Ôi trời, biết mà!
+a: Ôi trời, biết mà!
 
 (#act2-preamble-end)
 
@@ -240,7 +240,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: a: Ôi trời, biết mà!
+a: Ôi trời, biết mà!
 
 (#act2-preamble-end)
 
@@ -263,7 +263,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: a: Ôi trời, biết mà!
+a: Ôi trời, biết mà!
 
 (#act2-preamble-end)
 

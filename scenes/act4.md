@@ -453,7 +453,7 @@ bb({eyes:"normal"});
 
 [Mình sợ sự cô đơn.](#act4_alone)
 
-[Mình sợ rtrở thành người xấu.](#act4_bad)
+[Mình sợ trở thành người xấu.](#act4_bad)
 
 # act4_harm
 
@@ -486,9 +486,9 @@ b: Cậu có thêm suy nghĩ gì không, con người ạ?
 
 `Game.OVERRIDE_CHOICE_SPEAKER = "h"`
 
-[Cậu nói đúng. Vậy hãy cùng nhau bảo vệ bản thân nhé.](#act4_harm_skills)
+[Cậu nói đúng. Vậy cùng nhau bảo vệ bản thân nhé.](#act4_harm_skills)
 
-[Vậy hãy để mình phải đối mặt với *nhiều* nguy hiểm hơn nhé.](#act4_harm_exposure)
+[Vậy hãy để mình đối mặt với *nhiều* nguy hiểm hơn nhé.](#act4_harm_exposure)
 
 [Cảm ơn cậu.](#act4_thanks) `_.thanks_for = "physical safety";`
 
@@ -514,7 +514,7 @@ b: Có lẽ, nhưng...
 
 [Chúng ta nên bắt đầu từ đâu?](#act4_harm_skills_start)
 
-[Nếu chúng vẫn không hoạt động thì sao?](#act4_harm_skills_work)
+[Nếu nó không có tác dụng thì sao?](#act4_harm_skills_work)
 
 [Nếu chúng ta quá chú trọng vào "an toàn" thì sao?](#act4_harm_skills_overboard)
 
@@ -912,7 +912,7 @@ b: Liệu học cách giao tiếp xã hội có thực sự làm được không
 
 [Như thế không phải là *thao túng* sao?](#act4_alone_skills_manipulative)
 
-[Như vậy chẳng phải sẽ khiến chúng ta *dễ bị thao túng hơn sao?*](#act4_alone_skills_manipulated)
+[Vậy không phải sẽ *dễ bị thao túng hơn sao?*](#act4_alone_skills_manipulated)
 
 [Nếu chúng ta vẫn thất bại thì sao?](#act4_alone_skills_fail)
 
@@ -1022,9 +1022,9 @@ h: Tớ nghĩ chúng ta có thể sẽ thấy mình dễ thương hơn những g
 
 `bb({ eyes:"annoyed" });`
 
-[Nếu đây là những "chiến thắng" nhỏ và rẻ tiền thì sao?](#act4_alone_experiment_cheap)
+[Nếu đây là những "chiến thắng" nhỏ nhặt không đáng thì sao?](#act4_alone_experiment_cheap)
 
-[Nếu điều này trở thành gánh nặng cho người khác thì sao?](#act4_alone_experiment_burden)
+[Nếu điều này trở thành áp lực cho người khác thì sao?](#act4_alone_experiment_burden)
 
 [Nhưng nói chuyện phiếm không phải là con người *thực* của chúng ta!](#act4_alone_experiment_real_us)
 
@@ -1181,9 +1181,9 @@ b: Còn suy nghĩ gì nữa không, con người?
 
 `Game.OVERRIDE_CHOICE_SPEAKER = "h"`
 
-[Vậy là cậu tổn thương. Hãy cùng sửa chữa bản thân thôi..](#act4_bad_fix)
+[Vậy cậu tổn thương? Hãy đi chữa lành bản thân thôi..](#act4_bad_fix)
 
-[Vậy là cậu tổn thương. Hãy chấp nhận điều đó.](#act4_bad_accept)
+[Vậy cậu tổn thương? Hãy chấp nhận điều đó.](#act4_bad_accept)
 
 [Cảm ơn cậu.](#act4_thanks) `_.thanks_for = "moral well-being";`
 
@@ -1202,13 +1202,13 @@ h: Và nếu cần, chúng ta có thể tìm sự giúp đỡ từ chuyên gia �
 
 `hong({body:"normal"});`
 
-h: Có những cách để sửa chữa bản thân chúng ta.
+h: Có những cách để chữa lành cho bản thân.
 
 [Hãy làm gì nếu chúng ta không thể sửa mọi thứ?](#act4_bad_fix_cant)
 
 [Hãy làm gì nếu chúng ta phải sửa *quá nhiều*?](#act4_bad_fix_too_much)
 
-[Chúng ta không đủ khả năng chi trả cho sự giúp đỡ chuyên nghiệp.](#act4_bad_fix_afford)
+[Chúng ta không đủ tiền để trả cho trị liệu tâm lý.](#act4_bad_fix_afford)
 
 # act4_bad_fix_cant
 
