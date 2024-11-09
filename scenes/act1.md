@@ -63,7 +63,7 @@ b: Họ sẽ làm chúng ta cuộn tròn lại rồi khóc ròng mất thôi!
 {{/if}}
 
 {{if window.HACK_REPLAY.act1_ending=="flight"}}
-b: Họ sẽ bắt chúng tôi phải tắt điện thoại của bạn vì nó cậu hoảng loạn đấy!
+b: Họ sẽ bắt chúng ta phải tắt điện thoại của bạn vì nó cậu hoảng loạn đấy!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="fight"}}
