@@ -658,7 +658,7 @@ h: Vì cậu là chó, nên nó cũng sẽ có tác dụng với cậu đúng kh
 
 [Sẽ thế nào nếu chúng ta gặp phải nguy hiểm *thực sự*?](#act4_harm_exposure_hurt)
 
-[Tôi là sói, không phải chó.](#act4_harm_exposure_dog) `bb({ eyes:"suspect" })`
+[Tớ là sói, không phải chó.](#act4_harm_exposure_dog) `bb({ eyes:"suspect" })`
 
 # act4_harm_exposure_dog
 
@@ -876,7 +876,7 @@ b: Còn ý kiến nào khác không, con người ?
 
 `Game.OVERRIDE_CHOICE_SPEAKER = "h"`
 
-[Tôi đồng ý: hãy cải thiện đời sống xã hội.](#act4_alone_skills)
+[Tớ đồng ý: hãy cải thiện đời sống xã hội.](#act4_alone_skills)
 
 [Tớ nghĩ mọi người thích chúng ta. Cùng tìm hiểu nhé?](#act4_alone_experiment)
 
@@ -1664,11 +1664,11 @@ publish("act4", ["alshire", 4]);
 ```
 
 {{if _.TOP_FEAR=="harm"}}
-s: AHHHHH, TÔI ĐÃ BIẾT MÀ! HỌ LÀ MỘT KẺ TÂM THẦN BỊ ĐIỀU KHIỂN BỞI CẢM XÚC!
+s: AHHHHH, MÌNH ĐÃ BIẾT MÀ! HỌ LÀ MỘT KẺ TÂM THẦN BỊ ĐIỀU KHIỂN BỞI CẢM XÚC!
 {{/if}}
 
 {{if _.TOP_FEAR=="alone"}}
-s: AAHHH, ẤN TƯỢNG ĐẦU TIÊN MÀ CHÚNG TA ĐỂ LẠI LÀ "CHỨNG KIẾN NỖI ĐAU CỦA TÔI"! CÓ NGHĨA LÀ HỌ GHÉT CHÚNG TA!
+s: AAHHH, ẤN TƯỢNG ĐẦU TIÊN MÀ CHÚNG TA ĐỂ LẠI LÀ "CHỨNG KIẾN NỖI ĐAU CỦA CẬU"! CÓ NGHĨA LÀ HỌ GHÉT CHÚNG TA!
 {{/if}}
 
 {{if _.TOP_FEAR=="bad"}}

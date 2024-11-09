@@ -128,7 +128,7 @@ a: Ôi trời, biết mà!
 publish("act2",["dee",3]);
 ```
 
-s: Như tôi đã nói, tổ hợp công nghiệp Meme đang lợi dụng mèo.
+s: Như mình đã nói, tổ hợp công nghiệp Meme đang lợi dụng mèo.
 
 
 ```
@@ -159,7 +159,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: Ừ, tôi thấy ai đó chia sẻ ảnh một con mèo uống sữa hôm qua.
+s: Ừ, tớ thấy ai đó chia sẻ ảnh một con mèo uống sữa hôm qua.
 
 ```
 publish("act2",["dee",3]);
@@ -231,7 +231,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Ừ, tôi cũng không biết nữa! Họ nghĩ tôi là *kẻ giết người hàng loạt* hay gì sao? Đúng là hoang tưởng.
+s: Ừ, tớ cũng không biết nữa! Họ nghĩ tớ là *kẻ giết người hàng loạt* hay gì sao? Đúng là hoang tưởng.
 
 
 ```
@@ -252,7 +252,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Ừ, tôi không biết nữa! Có lẽ họ nghĩ mấy cuộc tình chớp nhoáng không thể lấp đầy khoảng trống trong tim họ?
+s: Ừ, tớ không biết nữa! Có lẽ họ nghĩ mấy cuộc tình chớp nhoáng không thể lấp đầy khoảng trống trong tim họ?
 
 
 s: Đừng có cổ hủ như vậy nữa! Hãy mở lòng ra, rồi mở chân ra!
@@ -275,7 +275,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Ừ, tôi không biết nữa! Họ cũng không phải đẹp lắm, nhưng mà nếu được thì cũng hay đấy chứ!
+s: Ừ, mình không biết nữa! Họ cũng không phải đẹp lắm, nhưng mà nếu được thì cũng hay đấy chứ!
 
 
 ```
@@ -1058,7 +1058,7 @@ h: Theo phép ẩn dụ con sói này thật là ngu ngốc! Cậu chỉ là m�
 
 `hong({body:"cross", mouth:"cross"})`
 
-h: Vậy tại sao tôi phải nghe theo một thứ ^vô dụng^, vô lý, không tồn tại như cậu chứ?!
+h: Vậy tại sao tớ phải nghe theo một thứ ^vô dụng^, vô lý, không tồn tại như cậu chứ?!
 
 `bb({eyes:"sad", MOUTH_LOCK:true})`
 
