@@ -591,7 +591,7 @@ b: Thay vì ghét những con sói canh gác vì chúng cố gắng bảo vệ h
 
 `bb({ eyes:"normal" });`
 
-h: h: Trả lời sai ^mẹ nó^ rồi.
+h: Trả lời sai ^mẹ nó^ rồi.
 
 (#act3_bad_3)
 
