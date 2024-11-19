@@ -554,6 +554,7 @@ bb({ eyes:"ignore_oh_crap" });
 ```
 
 h: Thế thì, cạn ly đi.
+
 ```
 bb({ mouth:"normal", eyes:"oh_crap" });
 Game.OVERRIDE_TEXT_SPEED = 2;

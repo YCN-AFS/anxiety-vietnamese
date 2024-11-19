@@ -835,7 +835,7 @@ b:  Có lẽ cậu *về cơ bản không có khả năng* được yêu thươn
 
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
-b: Liệu có phải có điều gì đó đã vỡ vụn vĩnh viễn trong cậu từ lâu, hoặc thứ đó chưa bao giờ tồn tại trong cậu?
+b: Liệu có phải có điều gì đó đã vỡ vụn mãi mãi trong cậu từ lâu, hoặc thứ đó chưa bao giờ tồn tại trong cậu?
 
 `bb({body:"scream_a_1"})`
 
@@ -849,15 +849,15 @@ b: AHH CON TIN CẬU ĐÃ TAN VỠ! TAN VỠ QUÁ TAN VỠ QUÁ TAN VỠ QUÁ TA
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: What if we're just *fundamentally rotten?*
+b: Nhỡ đâu bản chất chúng ta *đã mục ruỗng* rồi thì sao?
 
 `bb({body:"one_up", eyes:"sad"})`
 
-b: Others have an inner drive to do goodness, but we only do "good" out of guilt or shame, if at all.
+b: Người khác có động lực bên trong để làm điều tốt, còn cậu chỉ làm 'điều tốt' vì cảm giác tội lỗi hay xấu hổ.
 
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
-b: What if it's in our nature to hurt others? What if we can't be anything *other* than a burden to those close to us?
+b: Nhỡ đâu bản chất của chúng ta là gây đau khổ cho người khác? Nhỡ đâu chúng ta sinh ra chỉ để trở thành *gánh nặng* cho những người xung quanh?
 
 `bb({body:"scream_a_1"})`
 

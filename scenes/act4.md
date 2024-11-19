@@ -807,7 +807,7 @@ h: Chà, mọi thứ phức tạp, và tớ không phải lúc nào cũng có s�
 
 `hong({ eyes:"annoyed_l", body:"one_up" })`
 
-h: It's not like life gives you a list of 3 pre-made dialogue responses.
+h: Cuộc sống đâu có đưa cho cậu sẵn một danh sách 3 câu trả lời để chọn.
 
 `hong({ eyes:"normal", mouth:"smile", body:"normal" })`
 
